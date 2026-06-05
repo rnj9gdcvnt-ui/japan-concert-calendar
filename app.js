@@ -35,7 +35,7 @@
     fillSelect(els.regionSelect, ["全部地区", ...unique(events.map((event) => event.region)).sort()], "all");
     fillSelect(els.ticketSelect, ["全部票务", ...unique(events.map(ticketPhase)).sort()], "all");
 
-    els.summaryLine.textContent = `已核验至 ${data.checkedAt}，当前收录 ${events.length} 场未来/待确认日本演出；每条都保留来源和核验等级。`;
+    els.summaryLine.textContent = `已核验至 ${data.checkedAt}，当前收录 ${events.length} 场未来/待确认日本及亚洲演出；每条都保留来源和核验等级。`;
     els.heroEventStat.textContent = `${events.length} 场`;
     els.heroArtistStat.textContent = `${data.artists.length} 组歌手`;
     els.emptyCount.textContent = `${data.emptyArtists.length} 组`;
@@ -231,8 +231,11 @@
     if (event.artist === "ヨルシカ") return "一轮结束";
     if (status.includes("結果発表")) return "抽选结果";
     if (/FC|会員|ボクンチ/.test(status)) return "FC抽选";
-    if (status.includes("一般発売")) return "一般发售";
+    if (status.includes("售罄") || status.includes("SOLD OUT")) return "售罄";
+    if (status.includes("一般発売") || status.includes("一般发售") || status.includes("公开发售") || status.includes("General On Sale")) return "一般发售";
     if (status.includes("フェス") || status.includes("EVENT")) return "活动票";
+    if (status.includes("票务待公布")) return "未开票";
+    if (status.includes("亚洲巡演")) return "亚洲巡演";
     if (status.includes("售票信息") || status.includes("e+")) return "售票中";
     if (status.includes("二级") || event.confidence === "review") return "待复查";
     if (status.includes("TOUR") || status.includes("ONE-MAN") || title.includes("TOUR")) return "未开票";
