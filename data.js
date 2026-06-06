@@ -29,10 +29,8 @@ window.CONCERT_DATA = {
     { artist: "幾田りら", note: "官方 Laugh 巡演日本公演已在 2026-05 结束；本表从 2026-06-06 起显示。" },
     { artist: "Aimer", note: "本次检索未发现 2026-06-06 之后公开的日本/亚洲公演。官方页需继续盯 NEWS/LIVE。" },
     { artist: "りりあ。", note: "检索到 2026-02-11 Acoustic Oneman Live，为过去公演；未来日本/亚洲公演暂未发现。" },
-    { artist: "澤野弘之", note: "检索到 2026-01-26 Billboard Live，为过去公演；未来日本/亚洲公演暂未发现。" },
     { artist: "yama", note: "本次快速核验未落到可确认的未来日本/亚洲单独公演，建议继续查官方 SCHEDULE 和票务站。" },
     { artist: "MY FIRST STORY", note: "官方首页可见 LIVE 入口，但本次未抓到 2026-06-06 之后可确认日本/亚洲场。" },
-    { artist: "日向文", note: "需确认艺名写法；本次未找到明确官方未来日本/亚洲公演。" },
     { artist: "平井大", note: "检索到 THE BEACH TRIP 2026 为 2026-05-04 过去公演；未来日本/亚洲公演暂未发现。" },
     { artist: "優里", note: "官方 LIVE 页需继续复查；本次未抓到可确认的未来日本/亚洲公演。" },
     { artist: "tuki.", note: "官方日历检索到 2026-05 香港场，为过去且非日本；未来日本/亚洲公演暂未发现。" },
@@ -158,6 +156,19 @@ window.CONCERT_DATA = {
       source: "https://www.sonymusic.co.jp/artist/ReoNa/info/580056"
     },
     {
+      artist: "日向文",
+      title: "日向文 札幌公演",
+      date: "2026-07-20",
+      open: "18:00",
+      start: "18:30",
+      region: "北海道",
+      city: "札幌",
+      venue: "musica hall cafe",
+      status: "TIGET 预约",
+      confidence: "official",
+      source: "https://www.hinataya.me/live-schedule/"
+    },
+    {
       artist: "RADWIMPS",
       title: "Official Fan Club Tour 2026 “ユーリンチー”",
       date: "2026-07-22",
@@ -195,6 +206,20 @@ window.CONCERT_DATA = {
       status: "FC/票务信息见来源",
       confidence: "official",
       source: "https://www.sonymusic.co.jp/artist/ReoNa/info/580056"
+    },
+    {
+      artist: "日向文",
+      title: "日向文生誕独演会2026（3/15 振替公演）",
+      date: "2026-07-26",
+      open: "12:00",
+      start: "12:30",
+      region: "神奈川",
+      city: "藤沢",
+      venue: "BLUE Enoshima",
+      status: "e+ 一般発売中",
+      confidence: "official",
+      source: "https://www.hinataya.me/live-schedule/",
+      note: "2026-03-15 北千住 BUoY 公演振替。"
     },
     {
       artist: "RADWIMPS",
@@ -742,6 +767,20 @@ window.CONCERT_DATA = {
       status: "二级汇总源，需临近查场馆/官方",
       confidence: "review",
       source: "https://livevault.jp/tours/yoasobi-yoasobi-asia-10-city-dome-stadium-tour-2026-2027"
+    },
+    {
+      artist: "澤野弘之",
+      title: "SawanoHiroyuki[nZk] LIVE 2026",
+      date: "2026-12-06",
+      open: "16:45",
+      start: "17:30",
+      region: "大阪",
+      city: "堺",
+      venue: "フェニーチェ堺 大ホール",
+      status: "ぴあ 先行履历见来源",
+      confidence: "official",
+      source: "https://www.sawanohiroyuki.com/post/12%E6%9C%886%E6%97%A5-%E6%97%A5-%E3%80%81%E5%A4%A7%E9%98%AA%E3%81%A7%E3%81%AE%E5%8D%98%E7%8B%AC%E5%85%AC%E6%BC%94%E3%80%8Csawanohiroyuki-nzk-live-2026%E3%80%8D%E9%96%8B%E5%82%AC%E6%B1%BA%E5%AE%9A%EF%BC%81",
+      note: "官方公告含ゲストボーカル与ぴあ先行链接。"
     },
     {
       artist: "藤井風",
