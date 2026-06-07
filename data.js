@@ -1,5 +1,5 @@
 window.CONCERT_DATA = {
-  checkedAt: "2026-06-06",
+  checkedAt: "2026-06-07",
   artists: [
     "YOASOBI",
     "幾田りら",
@@ -26,31 +26,17 @@ window.CONCERT_DATA = {
     "King Gnu"
   ],
   emptyArtists: [
-    { artist: "幾田りら", note: "官方 Laugh 巡演日本公演已在 2026-05 结束；本表从 2026-06-06 起显示。" },
-    { artist: "Aimer", note: "本次检索未发现 2026-06-06 之后公开的日本/亚洲公演。官方页需继续盯 NEWS/LIVE。" },
+    { artist: "幾田りら", note: "官方 Laugh 巡演日本公演已在 2026-05 结束；本表从 2026-06-07 起显示。" },
+    { artist: "Aimer", note: "本次检索未发现 2026-06-07 之后公开的日本/亚洲公演。官方页需继续盯 NEWS/LIVE。" },
     { artist: "りりあ。", note: "检索到 2026-02-11 Acoustic Oneman Live，为过去公演；未来日本/亚洲公演暂未发现。" },
     { artist: "yama", note: "本次快速核验未落到可确认的未来日本/亚洲单独公演，建议继续查官方 SCHEDULE 和票务站。" },
-    { artist: "MY FIRST STORY", note: "官方首页可见 LIVE 入口，但本次未抓到 2026-06-06 之后可确认日本/亚洲场。" },
+    { artist: "MY FIRST STORY", note: "官方首页可见 LIVE 入口，但本次未抓到 2026-06-07 之后可确认日本/亚洲场。" },
     { artist: "平井大", note: "检索到 THE BEACH TRIP 2026 为 2026-05-04 过去公演；未来日本/亚洲公演暂未发现。" },
     { artist: "優里", note: "官方 LIVE 页需继续复查；本次未抓到可确认的未来日本/亚洲公演。" },
     { artist: "tuki.", note: "官方日历检索到 2026-05 香港场，为过去且非日本；未来日本/亚洲公演暂未发现。" },
     { artist: "YOASOBI", note: "ASIA 10-CITY DOME & STADIUM TOUR 已公布亚洲城市，但本轮未核到日本以外城市的官方精确日期，暂不落入日历。" }
   ],
   events: [
-    {
-      artist: "にしな",
-      title: "にしな ツアー2026「日々散漫」",
-      date: "2026-06-06",
-      open: "17:00",
-      start: "18:00",
-      region: "石川",
-      city: "金沢",
-      venue: "金沢RED SUN",
-      status: "售票信息见来源",
-      confidence: "official",
-      source: "https://nishina247.jp/news/1842/",
-      note: "官方巡演页"
-    },
     {
       artist: "にしな",
       title: "にしな ツアー2026「日々散漫」",
@@ -551,14 +537,14 @@ window.CONCERT_DATA = {
       artist: "ずっと真夜中でいいのに。",
       title: "SOUND PLANET FESTIVAL",
       date: "2026-09-06",
-      open: "",
-      start: "",
-      region: "要复查",
-      city: "要复查",
-      venue: "会场要复查",
-      status: "フェス出演",
-      confidence: "review",
-      source: "https://zutomayo.net/live/"
+      open: "15:00",
+      start: "17:00",
+      region: "韩国",
+      city: "仁川",
+      venue: "Inspire Arena",
+      status: "Live Nation Korea 先行/一般售票",
+      confidence: "official",
+      source: "https://zutomayo.net/live/55"
     },
     {
       artist: "Vaundy",
@@ -836,19 +822,6 @@ window.CONCERT_DATA = {
       confidence: "official",
       source: "https://www.sonymusic.co.jp/artist/lisa/info/581758",
       note: "海外场时间请以当地票务页为准。"
-    },
-    {
-      artist: "ずっと真夜中でいいのに。",
-      title: "ZUTOMAYO Live in Hong Kong 2026",
-      date: "2026-06-06",
-      open: "",
-      start: "",
-      region: "香港",
-      city: "香港",
-      venue: "AsiaWorld-Expo, Runway 11",
-      status: "海外公演，详情见场馆页",
-      confidence: "official",
-      source: "https://www.asiaworld-expo.com/en-us/whats-on/upcoming-events/events/Zutomayo-Live-in-Hong-Kong-2026"
     },
     {
       artist: "あたらよ",
