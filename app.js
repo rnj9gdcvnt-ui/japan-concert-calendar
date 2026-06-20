@@ -31,6 +31,7 @@
   init();
 
   function init() {
+    registerServiceWorker();
     fillSelect(els.artistSelect, ["全部歌手", ...data.artists], "all");
     fillSelect(els.regionSelect, ["全部地区", ...unique(events.map((event) => event.region)).sort()], "all");
     fillSelect(els.ticketSelect, ["全部票务", ...unique(events.map(ticketPhase)).sort()], "all");
@@ -291,5 +292,13 @@
       .toLowerCase()
       .replace(/[^a-z0-9]+/g, "-")
       .replace(/^-|-$/g, "") || "event";
+  }
+
+  function registerServiceWorker() {
+    if (!("serviceWorker" in navigator) || location.protocol !== "https:") return;
+
+    window.addEventListener("load", () => {
+      navigator.serviceWorker.register("sw.js").catch(() => {});
+    });
   }
 })();
