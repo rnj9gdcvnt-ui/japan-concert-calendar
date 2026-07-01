@@ -38,7 +38,8 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "venue": "苗場スキーリゾート",
     "status": "GREEN STAGE 出演",
     "confidence": "official",
-    "source": "https://hiraidai.com/schedule/"
+    "source": "https://hiraidai.com/schedule/",
+    "note": ""
   },
   {
     "artist": "RADWIMPS",

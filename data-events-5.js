@@ -50,7 +50,8 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "venue": "千葉市蘇我スポーツ公園",
     "status": "フェス出演",
     "confidence": "official",
-    "source": "https://hiraidai.com/schedule/"
+    "source": "https://hiraidai.com/schedule/",
+    "note": ""
   },
   {
     "artist": "『ユイカ』",
@@ -89,7 +90,8 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "venue": "会場信息见来源",
     "status": "フェス出演",
     "confidence": "official",
-    "source": "https://hiraidai.com/schedule/"
+    "source": "https://hiraidai.com/schedule/",
+    "note": ""
   },
   {
     "artist": "平井大",
@@ -102,7 +104,8 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "venue": "虹の松原海水浴場 東の浜",
     "status": "フェス出演",
     "confidence": "official",
-    "source": "https://hiraidai.com/schedule/"
+    "source": "https://hiraidai.com/schedule/",
+    "note": ""
   },
   {
     "artist": "Vaundy",

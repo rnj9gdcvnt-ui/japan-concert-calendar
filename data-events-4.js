@@ -25,7 +25,8 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "venue": "山口きらら博記念公園",
     "status": "フェス出演",
     "confidence": "official",
-    "source": "https://hiraidai.com/schedule/"
+    "source": "https://hiraidai.com/schedule/",
+    "note": ""
   },
   {
     "artist": "ずっと真夜中でいいのに。",
@@ -129,7 +130,8 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "venue": "会場信息见来源",
     "status": "フェス出演",
     "confidence": "official",
-    "source": "https://hiraidai.com/schedule/"
+    "source": "https://hiraidai.com/schedule/",
+    "note": ""
   },
   {
     "artist": "Vaundy",
