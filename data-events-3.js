@@ -1,72 +1,6 @@
 window.__CONCERT_EVENT_CHUNKS = window.__CONCERT_EVENT_CHUNKS || [];
 window.__CONCERT_EVENT_CHUNKS.push([
   {
-    "artist": "Vaundy",
-    "title": "NUMBER SHOT2026",
-    "date": "2026-08-01",
-    "open": "",
-    "start": "",
-    "region": "福岡",
-    "city": "福岡",
-    "venue": "みずほPayPayドーム福岡 / シーサイドももち海浜公園地行浜ビーチ",
-    "status": "フェス出演",
-    "confidence": "official",
-    "source": "https://vaundy.jp/news/2/"
-  },
-  {
-    "artist": "LiSA",
-    "title": "Another Great Day in ASIA",
-    "date": "2026-08-02",
-    "open": "",
-    "start": "",
-    "region": "韩国",
-    "city": "首尔",
-    "venue": "Olympic Hall",
-    "status": "亚洲巡演，票务信息见来源",
-    "confidence": "official",
-    "source": "https://www.sonymusic.co.jp/artist/lisa/info/581758",
-    "note": "海外场时间请以当地票务页为准。"
-  },
-  {
-    "artist": "Vaundy",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 -THANKS 10TH GIGA-",
-    "date": "2026-08-02",
-    "open": "",
-    "start": "",
-    "region": "大阪",
-    "city": "大阪",
-    "venue": "舞洲スポーツアイランド",
-    "status": "フェス出演",
-    "confidence": "official",
-    "source": "https://vaundy.jp/news/2/"
-  },
-  {
-    "artist": "XG",
-    "title": "XG WORLD TOUR: THE CORE - ASIA & AUSTRALIA SHOWS",
-    "date": "2026-08-02",
-    "open": "",
-    "start": "",
-    "region": "香港",
-    "city": "香港",
-    "venue": "AsiaWorld-Expo Hall 10",
-    "status": "亚洲巡演，票务信息见来源",
-    "confidence": "official",
-    "source": "https://xgalx.com/xg/tour/thecore/"
-  },
-  {
-    "artist": "ずっと真夜中でいいのに。",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 -THANKS 10TH GIGA-",
-    "date": "2026-08-02",
-    "open": "",
-    "start": "",
-    "region": "大阪",
-    "city": "大阪",
-    "venue": "舞洲スポーツアイランド",
-    "status": "フェス出演",
-    "confidence": "official",
-    "source": "https://zutomayo.net/live/"
-  },
-  {
     "artist": "RADWIMPS",
     "title": "Official Fan Club Tour 2026 “ユーリンチー”",
     "date": "2026-08-03",
@@ -158,6 +92,19 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "source": "https://www.sonymusic.co.jp/artist/ReoNa/info/580056"
   },
   {
+    "artist": "あたらよ",
+    "title": "STARRY NIGHT FES 2026",
+    "date": "2026-08-08",
+    "open": "",
+    "start": "",
+    "region": "長野",
+    "city": "阿智村",
+    "venue": "富士見台高原ロープウェイ ヘブンスそのはら",
+    "status": "フェス出演",
+    "confidence": "official",
+    "source": "https://atarayo-jp.com/contents/1079660?tag=all"
+  },
+  {
     "artist": "ReoNa",
     "title": "ReoNa Live Tour 2026 “De:TOUR-動脈-”",
     "date": "2026-08-10",
@@ -195,5 +142,57 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "status": "ONE-MAN",
     "confidence": "official",
     "source": "https://vaundy.jp/news/2/"
+  },
+  {
+    "artist": "RADWIMPS",
+    "title": "Official Fan Club Tour 2026 “ユーリンチー”",
+    "date": "2026-08-13",
+    "open": "18:00",
+    "start": "19:00",
+    "region": "東京",
+    "city": "東京",
+    "venue": "Zepp Haneda",
+    "status": "ボクンチ会員限定",
+    "confidence": "official",
+    "source": "https://radwimps.jp/yurinchi/"
+  },
+  {
+    "artist": "Vaundy",
+    "title": "Vaundy VAWS one man live 2026 at Zepp Sapporo",
+    "date": "2026-08-13",
+    "open": "",
+    "start": "",
+    "region": "北海道",
+    "city": "札幌",
+    "venue": "Zepp Sapporo",
+    "status": "ONE-MAN",
+    "confidence": "official",
+    "source": "https://vaundy.jp/news/2/"
+  },
+  {
+    "artist": "Vaundy",
+    "title": "RISING SUN ROCK FESTIVAL 2026 in EZO",
+    "date": "2026-08-15",
+    "open": "",
+    "start": "",
+    "region": "北海道",
+    "city": "石狩",
+    "venue": "石狩湾新港樽川ふ頭横野外特設ステージ",
+    "status": "フェス出演",
+    "confidence": "official",
+    "source": "https://vaundy.jp/news/2/"
+  },
+  {
+    "artist": "平井大",
+    "title": "RISING SUN ROCK FESTIVAL 2026 in EZO",
+    "date": "2026-08-15",
+    "open": "",
+    "start": "",
+    "region": "北海道",
+    "city": "石狩",
+    "venue": "会場信息见来源",
+    "status": "フェス出演",
+    "confidence": "official",
+    "source": "https://hiraidai.com/schedule/"
   }
 ]);

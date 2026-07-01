@@ -1,6 +1,33 @@
 window.__CONCERT_EVENT_CHUNKS = window.__CONCERT_EVENT_CHUNKS || [];
 window.__CONCERT_EVENT_CHUNKS.push([
   {
+    "artist": "澤野弘之",
+    "title": "SawanoHiroyuki[nZk] LIVE 2026",
+    "date": "2026-12-06",
+    "open": "16:45",
+    "start": "17:30",
+    "region": "大阪",
+    "city": "堺",
+    "venue": "フェニーチェ堺 大ホール",
+    "status": "ぴあ 一般発売中",
+    "confidence": "official",
+    "source": "https://www.sawanohiroyuki.com/post/12%E6%9C%886%E6%97%A5-%E6%97%A5-%E3%80%81%E5%A4%A7%E9%98%AA%E3%81%A7%E3%81%AE%E5%8D%98%E7%8B%AC%E5%85%AC%E6%BC%94%E3%80%8Csawanohiroyuki-nzk-live-2026%E3%80%8D%E9%96%8B%E5%82%AC%E6%B1%BA%E5%AE%9A%EF%BC%81",
+    "note": "官方公告 2026-06-27 起一般発売（先着）。"
+  },
+  {
+    "artist": "LiSA",
+    "title": "LiSA Hall Tour 2026「LACE UP」",
+    "date": "2026-12-12",
+    "open": "17:00",
+    "start": "17:45",
+    "region": "富山",
+    "city": "砺波",
+    "venue": "砺波市文化会館",
+    "status": "FC先行结束，后续票务见来源",
+    "confidence": "official",
+    "source": "https://www.sonymusic.co.jp/artist/lisa/info/583485"
+  },
+  {
     "artist": "LiSA",
     "title": "LiSA Hall Tour 2026「LACE UP」",
     "date": "2026-12-13",
@@ -25,6 +52,19 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "status": "FC先行结束，后续票务见来源",
     "confidence": "official",
     "source": "https://www.sonymusic.co.jp/artist/lisa/info/583485"
+  },
+  {
+    "artist": "あたらよ",
+    "title": "あたらよ ASIA TOUR 2026『夕立が去ったその後で』",
+    "date": "2026-12-19",
+    "open": "",
+    "start": "",
+    "region": "台湾",
+    "city": "台北",
+    "venue": "台北流行音楽中心",
+    "status": "亚洲巡演，票务信息见来源",
+    "confidence": "official",
+    "source": "https://atarayo-jp.com/contents/1072119?tag=all"
   },
   {
     "artist": "LiSA",

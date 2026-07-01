@@ -1,71 +1,6 @@
 window.__CONCERT_EVENT_CHUNKS = window.__CONCERT_EVENT_CHUNKS || [];
 window.__CONCERT_EVENT_CHUNKS.push([
   {
-    "artist": "日向文",
-    "title": "日向文 札幌公演",
-    "date": "2026-07-20",
-    "open": "18:00",
-    "start": "18:30",
-    "region": "北海道",
-    "city": "札幌",
-    "venue": "musica hall cafe",
-    "status": "TIGET 预约",
-    "confidence": "official",
-    "source": "https://www.hinataya.me/live-schedule/"
-  },
-  {
-    "artist": "RADWIMPS",
-    "title": "Official Fan Club Tour 2026 “ユーリンチー”",
-    "date": "2026-07-22",
-    "open": "18:00",
-    "start": "19:00",
-    "region": "愛知",
-    "city": "名古屋",
-    "venue": "Zepp Nagoya",
-    "status": "ボクンチ会員限定",
-    "confidence": "official",
-    "source": "https://radwimps.jp/yurinchi/"
-  },
-  {
-    "artist": "XG",
-    "title": "XG WORLD TOUR: THE CORE - ASIA & AUSTRALIA SHOWS",
-    "date": "2026-07-22",
-    "open": "",
-    "start": "",
-    "region": "菲律宾",
-    "city": "马尼拉",
-    "venue": "SM Mall of Asia Arena",
-    "status": "亚洲巡演，票务信息见来源",
-    "confidence": "official",
-    "source": "https://xgalx.com/xg/tour/thecore/"
-  },
-  {
-    "artist": "RADWIMPS",
-    "title": "Official Fan Club Tour 2026 “ユーリンチー”",
-    "date": "2026-07-23",
-    "open": "18:00",
-    "start": "19:00",
-    "region": "愛知",
-    "city": "名古屋",
-    "venue": "Zepp Nagoya",
-    "status": "ボクンチ会員限定",
-    "confidence": "official",
-    "source": "https://radwimps.jp/yurinchi/"
-  },
-  {
-    "artist": "ReoNa",
-    "title": "ReoNa Live Tour 2026 “De:TOUR-動脈-”",
-    "date": "2026-07-25",
-    "open": "17:00",
-    "start": "18:00",
-    "region": "東京",
-    "city": "東京",
-    "venue": "Zepp Haneda",
-    "status": "FC/票务信息见来源",
-    "confidence": "official",
-    "source": "https://www.sonymusic.co.jp/artist/ReoNa/info/580056"
-  },
-  {
     "artist": "あたらよ",
     "title": "あたらよ LIVE in バンコク",
     "date": "2026-07-26",
@@ -94,17 +29,16 @@ window.__CONCERT_EVENT_CHUNKS.push([
   },
   {
     "artist": "平井大",
-    "confidence": "official",
-    "source": "https://hiraidai.com/schedule/",
-    "date": "2026-07-26",
     "title": "FUJI ROCK FESTIVAL'26",
+    "date": "2026-07-26",
     "open": "",
     "start": "",
     "region": "新潟",
     "city": "湯沢",
     "venue": "苗場スキーリゾート",
     "status": "GREEN STAGE 出演",
-    "note": ""
+    "confidence": "official",
+    "source": "https://hiraidai.com/schedule/"
   },
   {
     "artist": "RADWIMPS",
@@ -197,5 +131,71 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "confidence": "official",
     "source": "https://www.sonymusic.co.jp/artist/lisa/info/581758",
     "note": "海外场时间请以当地票务页为准。"
+  },
+  {
+    "artist": "Vaundy",
+    "title": "NUMBER SHOT2026",
+    "date": "2026-08-01",
+    "open": "",
+    "start": "",
+    "region": "福岡",
+    "city": "福岡",
+    "venue": "みずほPayPayドーム福岡 / シーサイドももち海浜公園地行浜ビーチ",
+    "status": "フェス出演",
+    "confidence": "official",
+    "source": "https://vaundy.jp/news/2/"
+  },
+  {
+    "artist": "LiSA",
+    "title": "Another Great Day in ASIA",
+    "date": "2026-08-02",
+    "open": "",
+    "start": "",
+    "region": "韩国",
+    "city": "首尔",
+    "venue": "Olympic Hall",
+    "status": "亚洲巡演，票务信息见来源",
+    "confidence": "official",
+    "source": "https://www.sonymusic.co.jp/artist/lisa/info/581758",
+    "note": "海外场时间请以当地票务页为准。"
+  },
+  {
+    "artist": "Vaundy",
+    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 -THANKS 10TH GIGA-",
+    "date": "2026-08-02",
+    "open": "",
+    "start": "",
+    "region": "大阪",
+    "city": "大阪",
+    "venue": "舞洲スポーツアイランド",
+    "status": "フェス出演",
+    "confidence": "official",
+    "source": "https://vaundy.jp/news/2/"
+  },
+  {
+    "artist": "XG",
+    "title": "XG WORLD TOUR: THE CORE - ASIA & AUSTRALIA SHOWS",
+    "date": "2026-08-02",
+    "open": "",
+    "start": "",
+    "region": "香港",
+    "city": "香港",
+    "venue": "AsiaWorld-Expo Hall 10",
+    "status": "亚洲巡演，票务信息见来源",
+    "confidence": "official",
+    "source": "https://xgalx.com/xg/tour/thecore/"
+  },
+  {
+    "artist": "ずっと真夜中でいいのに。",
+    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 -THANKS 10TH GIGA-",
+    "date": "2026-08-02",
+    "open": "",
+    "start": "",
+    "region": "大阪",
+    "city": "大阪",
+    "venue": "舞洲スポーツアイランド",
+    "status": "フェス出演",
+    "confidence": "official",
+    "source": "https://zutomayo.net/live/"
   }
 ]);

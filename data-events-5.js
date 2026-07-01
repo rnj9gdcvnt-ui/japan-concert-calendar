@@ -41,17 +41,16 @@ window.__CONCERT_EVENT_CHUNKS.push([
   },
   {
     "artist": "平井大",
-    "confidence": "official",
-    "source": "https://hiraidai.com/schedule/",
-    "date": "2026-09-20",
     "title": "rockin'on presents ROCK IN JAPAN FESTIVAL 2026",
+    "date": "2026-09-20",
     "open": "",
     "start": "",
     "region": "千葉",
     "city": "千葉",
     "venue": "千葉市蘇我スポーツ公園",
     "status": "フェス出演",
-    "note": ""
+    "confidence": "official",
+    "source": "https://hiraidai.com/schedule/"
   },
   {
     "artist": "『ユイカ』",
@@ -81,17 +80,29 @@ window.__CONCERT_EVENT_CHUNKS.push([
   },
   {
     "artist": "平井大",
+    "title": "IZUMO OROCHI FES 2026",
+    "date": "2026-09-26",
+    "open": "",
+    "start": "",
+    "region": "島根",
+    "city": "出雲",
+    "venue": "会場信息见来源",
+    "status": "フェス出演",
     "confidence": "official",
-    "source": "https://hiraidai.com/schedule/",
-    "date": "2026-09-27",
+    "source": "https://hiraidai.com/schedule/"
+  },
+  {
+    "artist": "平井大",
     "title": "Karatsu Drop Festival 2026",
+    "date": "2026-09-27",
     "open": "",
     "start": "",
     "region": "佐賀",
     "city": "唐津",
     "venue": "虹の松原海水浴場 東の浜",
     "status": "フェス出演",
-    "note": ""
+    "confidence": "official",
+    "source": "https://hiraidai.com/schedule/"
   },
   {
     "artist": "Vaundy",
@@ -160,41 +171,28 @@ window.__CONCERT_EVENT_CHUNKS.push([
   },
   {
     "artist": "あたらよ",
-    "title": "あたらよ ASIA TOUR 2026",
-    "date": "2026-10-22",
-    "open": "",
-    "start": "",
+    "title": "あたらよ ASIA TOUR 2026『夕立が去ったその後で』",
+    "date": "2026-10-19",
+    "open": "19:00",
+    "start": "20:00",
     "region": "香港",
     "city": "香港",
-    "venue": "Music Zone @ E-Max",
-    "status": "亚洲巡演，票务信息见来源",
+    "venue": "Portal",
+    "status": "票务信息见来源",
     "confidence": "official",
-    "source": "https://atarayo-jp.com/contents/live"
+    "source": "https://atarayo-jp.com/contents/1072118?tag=all"
   },
   {
-    "artist": "LiSA",
-    "title": "LiSA Hall Tour 2026「LACE UP」",
-    "date": "2026-10-24",
-    "open": "17:00",
-    "start": "18:00",
-    "region": "大阪",
-    "city": "大阪",
-    "venue": "グランキューブ大阪",
-    "status": "FC先行结束，后续票务见来源",
+    "artist": "あたらよ",
+    "title": "あたらよ ASIA TOUR 2026『夕立が去ったその後で』 [追加公演]",
+    "date": "2026-10-20",
+    "open": "19:00",
+    "start": "20:00",
+    "region": "香港",
+    "city": "香港",
+    "venue": "Portal",
+    "status": "追加公演，票务信息见来源",
     "confidence": "official",
-    "source": "https://www.sonymusic.co.jp/artist/lisa/info/583485"
-  },
-  {
-    "artist": "Vaundy",
-    "title": "Vaundy ASIA ARENA TOUR 2026 “HORO”",
-    "date": "2026-10-24",
-    "open": "17:00",
-    "start": "18:00",
-    "region": "福岡",
-    "city": "北九州",
-    "venue": "西日本総合展示場 新館",
-    "status": "TOUR",
-    "confidence": "official",
-    "source": "https://member.vaundy.jp/feature/ASIAARENATOUR_2026?lang=en"
+    "source": "https://atarayo-jp.com/contents/1072478?tag=all"
   }
 ]);

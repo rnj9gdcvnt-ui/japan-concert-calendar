@@ -1,6 +1,45 @@
 window.__CONCERT_EVENT_CHUNKS = window.__CONCERT_EVENT_CHUNKS || [];
 window.__CONCERT_EVENT_CHUNKS.push([
   {
+    "artist": "あたらよ",
+    "title": "あたらよ ASIA TOUR 2026『夕立が去ったその後で』 [再追加公演]",
+    "date": "2026-10-22",
+    "open": "",
+    "start": "",
+    "region": "香港",
+    "city": "香港",
+    "venue": "会場未掲出",
+    "status": "SOLD OUT",
+    "confidence": "official",
+    "source": "https://atarayo-jp.com/contents/live"
+  },
+  {
+    "artist": "LiSA",
+    "title": "LiSA Hall Tour 2026「LACE UP」",
+    "date": "2026-10-24",
+    "open": "17:00",
+    "start": "18:00",
+    "region": "大阪",
+    "city": "大阪",
+    "venue": "グランキューブ大阪",
+    "status": "FC先行结束，后续票务见来源",
+    "confidence": "official",
+    "source": "https://www.sonymusic.co.jp/artist/lisa/info/583485"
+  },
+  {
+    "artist": "Vaundy",
+    "title": "Vaundy ASIA ARENA TOUR 2026 “HORO”",
+    "date": "2026-10-24",
+    "open": "16:30",
+    "start": "18:00",
+    "region": "福岡",
+    "city": "北九州",
+    "venue": "Kitakyushu Messe",
+    "status": "TOUR",
+    "confidence": "official",
+    "source": "https://member.vaundy.jp/feature/ASIAARENATOUR_2026?lang=en"
+  },
+  {
     "artist": "YOASOBI",
     "title": "ASIA 10-CITY DOME & STADIUM TOUR 2026-2027",
     "date": "2026-10-24",
@@ -30,11 +69,11 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "artist": "Vaundy",
     "title": "Vaundy ASIA ARENA TOUR 2026 “HORO”",
     "date": "2026-10-25",
-    "open": "15:00",
+    "open": "14:30",
     "start": "16:00",
     "region": "福岡",
     "city": "北九州",
-    "venue": "西日本総合展示場 新館",
+    "venue": "Kitakyushu Messe",
     "status": "TOUR",
     "confidence": "official",
     "source": "https://member.vaundy.jp/feature/ASIAARENATOUR_2026?lang=en"
@@ -51,19 +90,6 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "status": "入場料 14,000円",
     "confidence": "official",
     "source": "https://www.kyoceradome-osaka.jp/schedule/?cat=concert&monthId=10&yearId=2026"
-  },
-  {
-    "artist": "あたらよ",
-    "title": "あたらよ ASIA TOUR 2026",
-    "date": "2026-10-29",
-    "open": "",
-    "start": "",
-    "region": "台湾",
-    "city": "台北",
-    "venue": "Legacy Taipei",
-    "status": "亚洲巡演，票务信息见来源",
-    "confidence": "official",
-    "source": "https://atarayo-jp.com/contents/live"
   },
   {
     "artist": "Vaundy",
@@ -108,8 +134,8 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "artist": "Vaundy",
     "title": "Vaundy ASIA ARENA TOUR 2026 “HORO”",
     "date": "2026-11-01",
-    "open": "17:00",
-    "start": "18:30",
+    "open": "17:30",
+    "start": "19:00",
     "region": "台湾",
     "city": "台北",
     "venue": "Taipei Arena",
@@ -168,31 +194,5 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "status": "二级汇总源，需临近查场馆/官方",
     "confidence": "review",
     "source": "https://livevault.jp/tours/yoasobi-yoasobi-asia-10-city-dome-stadium-tour-2026-2027"
-  },
-  {
-    "artist": "LiSA",
-    "title": "LiSA Hall Tour 2026「LACE UP」",
-    "date": "2026-11-13",
-    "open": "17:45",
-    "start": "18:30",
-    "region": "北海道",
-    "city": "帯広",
-    "venue": "帯広市民文化ホール",
-    "status": "FC先行结束，后续票务见来源",
-    "confidence": "official",
-    "source": "https://www.sonymusic.co.jp/artist/lisa/info/583485"
-  },
-  {
-    "artist": "Vaundy",
-    "title": "Vaundy ASIA ARENA TOUR 2026 “HORO”",
-    "date": "2026-11-14",
-    "open": "",
-    "start": "",
-    "region": "中国大陆",
-    "city": "上海",
-    "venue": "会場未発表",
-    "status": "会場待公布",
-    "confidence": "official",
-    "source": "https://member.vaundy.jp/feature/ASIAARENATOUR_2026?lang=en"
   }
 ]);

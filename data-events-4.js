@@ -1,45 +1,6 @@
 window.__CONCERT_EVENT_CHUNKS = window.__CONCERT_EVENT_CHUNKS || [];
 window.__CONCERT_EVENT_CHUNKS.push([
   {
-    "artist": "RADWIMPS",
-    "title": "Official Fan Club Tour 2026 “ユーリンチー”",
-    "date": "2026-08-13",
-    "open": "18:00",
-    "start": "19:00",
-    "region": "東京",
-    "city": "東京",
-    "venue": "Zepp Haneda",
-    "status": "ボクンチ会員限定",
-    "confidence": "official",
-    "source": "https://radwimps.jp/yurinchi/"
-  },
-  {
-    "artist": "Vaundy",
-    "title": "Vaundy VAWS one man live 2026 at Zepp Sapporo",
-    "date": "2026-08-13",
-    "open": "",
-    "start": "",
-    "region": "北海道",
-    "city": "札幌",
-    "venue": "Zepp Sapporo",
-    "status": "ONE-MAN",
-    "confidence": "official",
-    "source": "https://vaundy.jp/news/2/"
-  },
-  {
-    "artist": "Vaundy",
-    "title": "RISING SUN ROCK FESTIVAL 2026 in EZO",
-    "date": "2026-08-15",
-    "open": "",
-    "start": "",
-    "region": "北海道",
-    "city": "石狩",
-    "venue": "石狩湾新港樽川ふ頭横野外特設ステージ",
-    "status": "フェス出演",
-    "confidence": "official",
-    "source": "https://vaundy.jp/news/2/"
-  },
-  {
     "artist": "ReoNa",
     "title": "ReoNa Live Tour 2026 “De:TOUR-動脈-”",
     "date": "2026-08-21",
@@ -55,17 +16,16 @@ window.__CONCERT_EVENT_CHUNKS.push([
   },
   {
     "artist": "平井大",
-    "confidence": "official",
-    "source": "https://hiraidai.com/schedule/",
-    "date": "2026-08-21",
     "title": "WILD BUNCH FEST. 2026",
+    "date": "2026-08-21",
     "open": "",
     "start": "",
     "region": "山口",
     "city": "山口",
     "venue": "山口きらら博記念公園",
     "status": "フェス出演",
-    "note": ""
+    "confidence": "official",
+    "source": "https://hiraidai.com/schedule/"
   },
   {
     "artist": "ずっと真夜中でいいのに。",
@@ -159,6 +119,19 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "source": "https://zutomayo.net/live/55"
   },
   {
+    "artist": "平井大",
+    "title": "ASUTO MUSIC PARK 2026",
+    "date": "2026-09-06",
+    "open": "",
+    "start": "",
+    "region": "宮城",
+    "city": "仙台",
+    "venue": "会場信息见来源",
+    "status": "フェス出演",
+    "confidence": "official",
+    "source": "https://hiraidai.com/schedule/"
+  },
+  {
     "artist": "Vaundy",
     "title": "ROCK IN JAPAN FESTIVAL 2026",
     "date": "2026-09-12",
@@ -170,6 +143,19 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "status": "フェス出演",
     "confidence": "official",
     "source": "https://vaundy.jp/news/2/"
+  },
+  {
+    "artist": "あたらよ",
+    "title": "あたらよ ASIA TOUR 2026『夕立が去ったその後で』",
+    "date": "2026-09-13",
+    "open": "",
+    "start": "",
+    "region": "福岡",
+    "city": "福岡",
+    "venue": "会場未掲出",
+    "status": "公演详情待公布",
+    "confidence": "official",
+    "source": "https://atarayo-jp.com/contents/live"
   },
   {
     "artist": "ヨルシカ",
@@ -196,5 +182,18 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "status": "先行/トレード信息见来源",
     "confidence": "official",
     "source": "https://yorushika.com/feature/livetour2026_ichininsho"
+  },
+  {
+    "artist": "あたらよ",
+    "title": "あたらよ ASIA TOUR 2026『夕立が去ったその後で』",
+    "date": "2026-09-18",
+    "open": "",
+    "start": "",
+    "region": "東京",
+    "city": "東京",
+    "venue": "会場未掲出",
+    "status": "公演详情待公布",
+    "confidence": "official",
+    "source": "https://atarayo-jp.com/contents/live"
   }
 ]);

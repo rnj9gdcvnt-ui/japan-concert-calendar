@@ -1,6 +1,32 @@
 window.__CONCERT_EVENT_CHUNKS = window.__CONCERT_EVENT_CHUNKS || [];
 window.__CONCERT_EVENT_CHUNKS.push([
   {
+    "artist": "LiSA",
+    "title": "LiSA Hall Tour 2026「LACE UP」",
+    "date": "2026-11-13",
+    "open": "17:45",
+    "start": "18:30",
+    "region": "北海道",
+    "city": "帯広",
+    "venue": "帯広市民文化ホール",
+    "status": "FC先行结束，后续票务见来源",
+    "confidence": "official",
+    "source": "https://www.sonymusic.co.jp/artist/lisa/info/583485"
+  },
+  {
+    "artist": "Vaundy",
+    "title": "Vaundy ASIA ARENA TOUR 2026 “HORO”",
+    "date": "2026-11-14",
+    "open": "",
+    "start": "",
+    "region": "中国大陆",
+    "city": "上海",
+    "venue": "会場未発表",
+    "status": "会場待公布",
+    "confidence": "official",
+    "source": "https://member.vaundy.jp/feature/ASIAARENATOUR_2026?lang=en"
+  },
+  {
     "artist": "YOASOBI",
     "title": "ASIA 10-CITY DOME & STADIUM TOUR 2026-2027",
     "date": "2026-11-14",
@@ -168,32 +194,5 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "status": "二级汇总源，需临近查场馆/官方",
     "confidence": "review",
     "source": "https://livevault.jp/tours/yoasobi-yoasobi-asia-10-city-dome-stadium-tour-2026-2027"
-  },
-  {
-    "artist": "澤野弘之",
-    "title": "SawanoHiroyuki[nZk] LIVE 2026",
-    "date": "2026-12-06",
-    "open": "16:45",
-    "start": "17:30",
-    "region": "大阪",
-    "city": "堺",
-    "venue": "フェニーチェ堺 大ホール",
-    "status": "ぴあ 先行履历见来源",
-    "confidence": "official",
-    "source": "https://www.sawanohiroyuki.com/post/12%E6%9C%886%E6%97%A5-%E6%97%A5-%E3%80%81%E5%A4%A7%E9%98%AA%E3%81%A7%E3%81%AE%E5%8D%98%E7%8B%AC%E5%85%AC%E6%BC%94%E3%80%8Csawanohiroyuki-nzk-live-2026%E3%80%8D%E9%96%8B%E5%82%AC%E6%B1%BA%E5%AE%9A%EF%BC%81",
-    "note": "官方公告含ゲストボーカル与ぴあ先行链接。"
-  },
-  {
-    "artist": "LiSA",
-    "title": "LiSA Hall Tour 2026「LACE UP」",
-    "date": "2026-12-12",
-    "open": "17:00",
-    "start": "17:45",
-    "region": "富山",
-    "city": "砺波",
-    "venue": "砺波市文化会館",
-    "status": "FC先行结束，后续票务见来源",
-    "confidence": "official",
-    "source": "https://www.sonymusic.co.jp/artist/lisa/info/583485"
   }
 ]);
