@@ -1,6 +1,19 @@
 window.__CONCERT_EVENT_CHUNKS = window.__CONCERT_EVENT_CHUNKS || [];
 window.__CONCERT_EVENT_CHUNKS.push([
   {
+    "artist": "YOASOBI",
+    "title": "ASIA 10-CITY DOME & STADIUM TOUR 2026-2027",
+    "date": "2026-11-08",
+    "open": "",
+    "start": "17:00",
+    "region": "愛知",
+    "city": "名古屋",
+    "venue": "バンテリンドーム ナゴヤ",
+    "status": "二级汇总源，需临近查场馆/官方",
+    "confidence": "review",
+    "source": "https://livevault.jp/tours/yoasobi-yoasobi-asia-10-city-dome-stadium-tour-2026-2027"
+  },
+  {
     "artist": "LiSA",
     "title": "LiSA Hall Tour 2026「LACE UP」",
     "date": "2026-11-13",

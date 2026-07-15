@@ -1,32 +1,6 @@
 window.__CONCERT_EVENT_CHUNKS = window.__CONCERT_EVENT_CHUNKS || [];
 window.__CONCERT_EVENT_CHUNKS.push([
   {
-    "artist": "あたらよ",
-    "title": "万里一空",
-    "date": "2026-07-13",
-    "open": "",
-    "start": "",
-    "region": "東京",
-    "city": "東京",
-    "venue": "Spotify O-nest",
-    "status": "イベント詳細见来源",
-    "confidence": "official",
-    "source": "https://atarayo-jp.com/contents/live"
-  },
-  {
-    "artist": "King Gnu",
-    "title": "King Gnu CEN+RAL Tour 2026 追加公演",
-    "date": "2026-07-14",
-    "open": "17:30",
-    "start": "18:30",
-    "region": "神奈川",
-    "city": "横浜",
-    "venue": "横浜アリーナ",
-    "status": "追加抽選受付結果発表日 2026-06-05",
-    "confidence": "official",
-    "source": "https://clubgnu.com/s/n90/page/sp_tour2026central"
-  },
-  {
     "artist": "King Gnu",
     "title": "King Gnu CEN+RAL Tour 2026 追加公演",
     "date": "2026-07-15",
@@ -38,6 +12,20 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "status": "追加抽選受付結果発表日 2026-06-05",
     "confidence": "official",
     "source": "https://clubgnu.com/s/n90/page/sp_tour2026central"
+  },
+  {
+    "artist": "あいみょん",
+    "title": "AIMYON 10th anniversary LIVE 2026「、、、」IN 阪神甲子園球場",
+    "date": "2026-07-15",
+    "open": "16:30",
+    "start": "18:30",
+    "region": "兵庫",
+    "city": "西宮",
+    "venue": "阪神甲子園球場",
+    "status": "公式トレード実施中 / 注釈付き指定席一般発売 2026-07-04 10:00",
+    "confidence": "official",
+    "source": "https://www.aimyong.net/news/detail/3447",
+    "note": "官方 FAN CLUB/LIVE 页面已列出 7月14日、15日公演。"
   },
   {
     "artist": "藤井風",
@@ -106,6 +94,19 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "source": "https://xgalx.com/xg/tour/thecore/"
   },
   {
+    "artist": "あいみょん",
+    "title": "JOIN ALIVE",
+    "date": "2026-07-19",
+    "open": "9:30",
+    "start": "11:00",
+    "region": "北海道",
+    "city": "岩見沢",
+    "venue": "いわみざわ公園(野外音楽堂キタオン&北海道グリーンランド遊園地)",
+    "status": "フェス出演",
+    "confidence": "official",
+    "source": "https://www.aimyong.net/news/detail/3301"
+  },
+  {
     "artist": "ReoNa",
     "title": "ReoNa Live Tour 2026 “De:TOUR-動脈-”",
     "date": "2026-07-20",
@@ -169,31 +170,5 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "status": "ボクンチ会員限定",
     "confidence": "official",
     "source": "https://radwimps.jp/yurinchi/"
-  },
-  {
-    "artist": "あたらよ",
-    "title": "JAPAN EXPO MALAYSIA 2026",
-    "date": "2026-07-24",
-    "open": "XX:XX",
-    "start": "19:30",
-    "region": "马来西亚",
-    "city": "吉隆坡",
-    "venue": "Hall 6, Kuala Lumpur Convention Centre (KLCC)",
-    "status": "票务详情待公布",
-    "confidence": "official",
-    "source": "https://atarayo-jp.com/contents/1075672?tag=all"
-  },
-  {
-    "artist": "ReoNa",
-    "title": "ReoNa Live Tour 2026 “De:TOUR-動脈-”",
-    "date": "2026-07-25",
-    "open": "17:00",
-    "start": "18:00",
-    "region": "東京",
-    "city": "東京",
-    "venue": "Zepp Haneda",
-    "status": "FC/票务信息见来源",
-    "confidence": "official",
-    "source": "https://www.sonymusic.co.jp/artist/ReoNa/info/580056"
   }
 ]);

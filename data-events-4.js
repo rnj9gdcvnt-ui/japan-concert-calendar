@@ -29,6 +29,20 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "note": ""
   },
   {
+    "artist": "にしな",
+    "title": "WILD BUNCH FEST.2026",
+    "date": "2026-08-22",
+    "open": "",
+    "start": "14:50",
+    "region": "山口",
+    "city": "山口",
+    "venue": "Alley oop",
+    "status": "フェス出演",
+    "confidence": "official",
+    "source": "https://nishina247.jp/news/2021/",
+    "note": "官方页注明 8月22日 Alley oop 14:50 开演。"
+  },
+  {
     "artist": "ずっと真夜中でいいのに。",
     "title": "WILD BUNCH FEST. 2026",
     "date": "2026-08-22",
@@ -55,6 +69,20 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "source": "https://radwimps.jp/yurinchi/"
   },
   {
+    "artist": "あいみょん",
+    "title": "SPACE SHOWER SWEET LOVE SHOWER 2026",
+    "date": "2026-08-28",
+    "open": "9:00",
+    "start": "10:00",
+    "region": "山梨",
+    "city": "山中湖",
+    "venue": "山中湖交流プラザ きらら",
+    "status": "フェス出演",
+    "confidence": "official",
+    "source": "https://www.aimyong.net/news/detail/3269",
+    "note": "来源时间标注为予定。"
+  },
+  {
     "artist": "Vaundy",
     "title": "音楽と髭達2026 -TIME MACHINE-",
     "date": "2026-08-29",
@@ -68,6 +96,34 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "source": "https://vaundy.jp/news/2/"
   },
   {
+    "artist": "あいみょん",
+    "title": "音楽と髭達2026-TIME MACHINE-",
+    "date": "2026-08-29",
+    "open": "9:00",
+    "start": "11:00",
+    "region": "新潟",
+    "city": "新潟",
+    "venue": "HARD OFF ECO スタジアム新潟",
+    "status": "フェス出演",
+    "confidence": "official",
+    "source": "https://www.aimyong.net/news/detail/3324",
+    "note": "来源终演写作 20:00(予定)。"
+  },
+  {
+    "artist": "にしな",
+    "title": "RUSH BALL 2026",
+    "date": "2026-08-29",
+    "open": "",
+    "start": "",
+    "region": "大阪",
+    "city": "泉大津",
+    "venue": "泉大津フェニックス",
+    "status": "フェス出演",
+    "confidence": "official",
+    "source": "https://nishina247.jp/news/2033/",
+    "note": "官方页确认にしな出演 8月29日场次，未列 OPEN/START。"
+  },
+  {
     "artist": "Vaundy",
     "title": "SWEET LOVE SHOWER 2026",
     "date": "2026-08-30",
@@ -79,6 +135,19 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "status": "フェス出演",
     "confidence": "official",
     "source": "https://vaundy.jp/news/2/"
+  },
+  {
+    "artist": "あいみょん",
+    "title": "ロックのほそ道2026 ～15th Anniversary Special～",
+    "date": "2026-08-30",
+    "open": "16:00",
+    "start": "17:00",
+    "region": "宮城",
+    "city": "仙台",
+    "venue": "ゼビオアリーナ仙台",
+    "status": "フェス出演",
+    "confidence": "official",
+    "source": "https://www.aimyong.net/news/detail/3358"
   },
   {
     "artist": "Vaundy",
@@ -171,31 +240,5 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "status": "先行/トレード信息见来源",
     "confidence": "official",
     "source": "https://yorushika.com/feature/livetour2026_ichininsho"
-  },
-  {
-    "artist": "ヨルシカ",
-    "title": "LIVE TOUR 2026「一人称」",
-    "date": "2026-09-16",
-    "open": "18:00",
-    "start": "19:00",
-    "region": "千葉",
-    "city": "船橋",
-    "venue": "LaLa arena TOKYO-BAY",
-    "status": "先行/トレード信息见来源",
-    "confidence": "official",
-    "source": "https://yorushika.com/feature/livetour2026_ichininsho"
-  },
-  {
-    "artist": "あたらよ",
-    "title": "あたらよ ASIA TOUR 2026『夕立が去ったその後で』",
-    "date": "2026-09-18",
-    "open": "",
-    "start": "",
-    "region": "東京",
-    "city": "東京",
-    "venue": "会場未掲出",
-    "status": "公演详情待公布",
-    "confidence": "official",
-    "source": "https://atarayo-jp.com/contents/live"
   }
 ]);

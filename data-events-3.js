@@ -1,6 +1,19 @@
 window.__CONCERT_EVENT_CHUNKS = window.__CONCERT_EVENT_CHUNKS || [];
 window.__CONCERT_EVENT_CHUNKS.push([
   {
+    "artist": "ずっと真夜中でいいのに。",
+    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 -THANKS 10TH GIGA-",
+    "date": "2026-08-02",
+    "open": "",
+    "start": "",
+    "region": "大阪",
+    "city": "大阪",
+    "venue": "舞洲スポーツアイランド",
+    "status": "フェス出演",
+    "confidence": "official",
+    "source": "https://zutomayo.net/live/"
+  },
+  {
     "artist": "RADWIMPS",
     "title": "Official Fan Club Tour 2026 “ユーリンチー”",
     "date": "2026-08-03",
@@ -183,6 +196,20 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "source": "https://vaundy.jp/news/2/"
   },
   {
+    "artist": "にしな",
+    "title": "RISING SUN ROCK FESTIVAL 2026 in EZO",
+    "date": "2026-08-15",
+    "open": "",
+    "start": "15:40",
+    "region": "北海道",
+    "city": "石狩",
+    "venue": "石狩湾新港樽川ふ頭横野外特設ステージ",
+    "status": "フェス出演",
+    "confidence": "official",
+    "source": "https://nishina247.jp/news/2029/",
+    "note": "官方页注明 8月15日 def garage 15:40 开演。"
+  },
+  {
     "artist": "平井大",
     "title": "RISING SUN ROCK FESTIVAL 2026 in EZO",
     "date": "2026-08-15",
@@ -195,5 +222,19 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "confidence": "official",
     "source": "https://hiraidai.com/schedule/",
     "note": ""
+  },
+  {
+    "artist": "にしな",
+    "title": "SUMMER SONIC 2026 TOKYO",
+    "date": "2026-08-16",
+    "open": "",
+    "start": "",
+    "region": "千葉",
+    "city": "千葉",
+    "venue": "幕張 Spotify Stage",
+    "status": "フェス出演",
+    "confidence": "official",
+    "source": "https://nishina247.jp/news/2024/",
+    "note": "官方页仅写明 8月16日于幕张 Spotify Stage 演出，未列 OPEN/START。"
   }
 ]);

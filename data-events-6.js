@@ -2,6 +2,32 @@ window.__CONCERT_EVENT_CHUNKS = window.__CONCERT_EVENT_CHUNKS || [];
 window.__CONCERT_EVENT_CHUNKS.push([
   {
     "artist": "あたらよ",
+    "title": "あたらよ ASIA TOUR 2026『夕立が去ったその後で』",
+    "date": "2026-10-19",
+    "open": "19:00",
+    "start": "20:00",
+    "region": "香港",
+    "city": "香港",
+    "venue": "Portal",
+    "status": "票务信息见来源",
+    "confidence": "official",
+    "source": "https://atarayo-jp.com/contents/1072118?tag=all"
+  },
+  {
+    "artist": "あたらよ",
+    "title": "あたらよ ASIA TOUR 2026『夕立が去ったその後で』 [追加公演]",
+    "date": "2026-10-20",
+    "open": "19:00",
+    "start": "20:00",
+    "region": "香港",
+    "city": "香港",
+    "venue": "Portal",
+    "status": "追加公演，票务信息见来源",
+    "confidence": "official",
+    "source": "https://atarayo-jp.com/contents/1072478?tag=all"
+  },
+  {
+    "artist": "あたらよ",
     "title": "あたらよ ASIA TOUR 2026『夕立が去ったその後で』 [再追加公演]",
     "date": "2026-10-22",
     "open": "",
@@ -175,19 +201,6 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "date": "2026-11-07",
     "open": "",
     "start": "18:00",
-    "region": "愛知",
-    "city": "名古屋",
-    "venue": "バンテリンドーム ナゴヤ",
-    "status": "二级汇总源，需临近查场馆/官方",
-    "confidence": "review",
-    "source": "https://livevault.jp/tours/yoasobi-yoasobi-asia-10-city-dome-stadium-tour-2026-2027"
-  },
-  {
-    "artist": "YOASOBI",
-    "title": "ASIA 10-CITY DOME & STADIUM TOUR 2026-2027",
-    "date": "2026-11-08",
-    "open": "",
-    "start": "17:00",
     "region": "愛知",
     "city": "名古屋",
     "venue": "バンテリンドーム ナゴヤ",

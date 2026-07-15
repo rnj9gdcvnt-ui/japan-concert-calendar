@@ -2,6 +2,32 @@ window.__CONCERT_EVENT_CHUNKS = window.__CONCERT_EVENT_CHUNKS || [];
 window.__CONCERT_EVENT_CHUNKS.push([
   {
     "artist": "あたらよ",
+    "title": "JAPAN EXPO MALAYSIA 2026",
+    "date": "2026-07-24",
+    "open": "XX:XX",
+    "start": "19:30",
+    "region": "马来西亚",
+    "city": "吉隆坡",
+    "venue": "Hall 6, Kuala Lumpur Convention Centre (KLCC)",
+    "status": "票务详情待公布",
+    "confidence": "official",
+    "source": "https://atarayo-jp.com/contents/1075672?tag=all"
+  },
+  {
+    "artist": "ReoNa",
+    "title": "ReoNa Live Tour 2026 “De:TOUR-動脈-”",
+    "date": "2026-07-25",
+    "open": "17:00",
+    "start": "18:00",
+    "region": "東京",
+    "city": "東京",
+    "venue": "Zepp Haneda",
+    "status": "FC/票务信息见来源",
+    "confidence": "official",
+    "source": "https://www.sonymusic.co.jp/artist/ReoNa/info/580056"
+  },
+  {
+    "artist": "あたらよ",
     "title": "あたらよ LIVE in バンコク",
     "date": "2026-07-26",
     "open": "",
@@ -185,18 +211,5 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "status": "亚洲巡演，票务信息见来源",
     "confidence": "official",
     "source": "https://xgalx.com/xg/tour/thecore/"
-  },
-  {
-    "artist": "ずっと真夜中でいいのに。",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 -THANKS 10TH GIGA-",
-    "date": "2026-08-02",
-    "open": "",
-    "start": "",
-    "region": "大阪",
-    "city": "大阪",
-    "venue": "舞洲スポーツアイランド",
-    "status": "フェス出演",
-    "confidence": "official",
-    "source": "https://zutomayo.net/live/"
   }
 ]);

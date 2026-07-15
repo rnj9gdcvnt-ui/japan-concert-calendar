@@ -1,6 +1,32 @@
 window.__CONCERT_EVENT_CHUNKS = window.__CONCERT_EVENT_CHUNKS || [];
 window.__CONCERT_EVENT_CHUNKS.push([
   {
+    "artist": "ヨルシカ",
+    "title": "LIVE TOUR 2026「一人称」",
+    "date": "2026-09-16",
+    "open": "18:00",
+    "start": "19:00",
+    "region": "千葉",
+    "city": "船橋",
+    "venue": "LaLa arena TOKYO-BAY",
+    "status": "先行/トレード信息见来源",
+    "confidence": "official",
+    "source": "https://yorushika.com/feature/livetour2026_ichininsho"
+  },
+  {
+    "artist": "あたらよ",
+    "title": "あたらよ ASIA TOUR 2026『夕立が去ったその後で』",
+    "date": "2026-09-18",
+    "open": "",
+    "start": "",
+    "region": "東京",
+    "city": "東京",
+    "venue": "会場未掲出",
+    "status": "公演详情待公布",
+    "confidence": "official",
+    "source": "https://atarayo-jp.com/contents/live"
+  },
+  {
     "artist": "Vaundy",
     "title": "Vaundy ASIA ARENA TOUR 2026 “HORO”",
     "date": "2026-09-19",
@@ -38,6 +64,20 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "status": "ASIA TOUR",
     "confidence": "official",
     "source": "https://member.vaundy.jp/feature/ASIAARENATOUR_2026?lang=en"
+  },
+  {
+    "artist": "あいみょん",
+    "title": "rockin'on presents ROCK IN JAPAN FESTIVAL 2026",
+    "date": "2026-09-20",
+    "open": "8:30",
+    "start": "11:45",
+    "region": "千葉",
+    "city": "千葉",
+    "venue": "千葉市蘇我スポーツ公園",
+    "status": "フェス出演",
+    "confidence": "official",
+    "source": "https://www.aimyong.net/news/detail/3368",
+    "note": "来源写明终演 20:15(予定)。"
   },
   {
     "artist": "平井大",
@@ -171,31 +211,5 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "status": "FC先行结束，后续票务见来源",
     "confidence": "official",
     "source": "https://www.sonymusic.co.jp/artist/lisa/info/583485"
-  },
-  {
-    "artist": "あたらよ",
-    "title": "あたらよ ASIA TOUR 2026『夕立が去ったその後で』",
-    "date": "2026-10-19",
-    "open": "19:00",
-    "start": "20:00",
-    "region": "香港",
-    "city": "香港",
-    "venue": "Portal",
-    "status": "票务信息见来源",
-    "confidence": "official",
-    "source": "https://atarayo-jp.com/contents/1072118?tag=all"
-  },
-  {
-    "artist": "あたらよ",
-    "title": "あたらよ ASIA TOUR 2026『夕立が去ったその後で』 [追加公演]",
-    "date": "2026-10-20",
-    "open": "19:00",
-    "start": "20:00",
-    "region": "香港",
-    "city": "香港",
-    "venue": "Portal",
-    "status": "追加公演，票务信息见来源",
-    "confidence": "official",
-    "source": "https://atarayo-jp.com/contents/1072478?tag=all"
   }
 ]);
