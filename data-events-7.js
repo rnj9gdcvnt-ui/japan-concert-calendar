@@ -1,58 +1,6 @@
 window.__CONCERT_EVENT_CHUNKS = window.__CONCERT_EVENT_CHUNKS || [];
 window.__CONCERT_EVENT_CHUNKS.push([
   {
-    "artist": "あいみょん",
-    "title": "あいみょん TOUR 2027",
-    "date": "2027-02-14",
-    "open": "",
-    "start": "",
-    "region": "福井",
-    "city": "越前",
-    "venue": "サンドーム福井",
-    "status": "AIM会員優先予約(抽選)後日案内 / ベストアルバム封入先行予定",
-    "confidence": "official",
-    "source": "https://www.aimyong.net/feature/tour2027"
-  },
-  {
-    "artist": "あいみょん",
-    "title": "あいみょん TOUR 2027",
-    "date": "2027-02-20",
-    "open": "",
-    "start": "",
-    "region": "新潟",
-    "city": "新潟",
-    "venue": "朱鷺メッセ・新潟コンベンションセンター",
-    "status": "AIM会員優先予約(抽選)後日案内 / ベストアルバム封入先行予定",
-    "confidence": "official",
-    "source": "https://www.aimyong.net/feature/tour2027"
-  },
-  {
-    "artist": "あいみょん",
-    "title": "あいみょん TOUR 2027",
-    "date": "2027-02-21",
-    "open": "",
-    "start": "",
-    "region": "新潟",
-    "city": "新潟",
-    "venue": "朱鷺メッセ・新潟コンベンションセンター",
-    "status": "AIM会員優先予約(抽選)後日案内 / ベストアルバム封入先行予定",
-    "confidence": "official",
-    "source": "https://www.aimyong.net/feature/tour2027"
-  },
-  {
-    "artist": "XG",
-    "title": "XG WORLD TOUR: THE CORE FINAL \"7\"",
-    "date": "2027-02-27",
-    "open": "",
-    "start": "",
-    "region": "大阪",
-    "city": "大阪",
-    "venue": "Kyocera Dome Osaka",
-    "status": "ALPHAZ最速先行 2026-08-07開始",
-    "confidence": "official",
-    "source": "https://xgalx.com/xg/tour/thecore/"
-  },
-  {
     "artist": "澤野弘之",
     "title": "澤野弘之 × THE SOUND OF GUNDAM - 機動戦士ガンダムUC・NT・HATHAWAY Concert -",
     "date": "2027-02-27",
@@ -264,6 +212,19 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "artist": "あいみょん",
     "title": "あいみょん TOUR 2027",
     "date": "2027-05-02",
+    "open": "",
+    "start": "",
+    "region": "神奈川",
+    "city": "横浜",
+    "venue": "K-Arena Yokohama",
+    "status": "AIM会員優先予約(抽選)後日案内 / ベストアルバム封入先行予定",
+    "confidence": "official",
+    "source": "https://www.aimyong.net/feature/tour2027"
+  },
+  {
+    "artist": "あいみょん",
+    "title": "あいみょん TOUR 2027",
+    "date": "2027-05-03",
     "open": "",
     "start": "",
     "region": "神奈川",
