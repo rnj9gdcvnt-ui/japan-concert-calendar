@@ -3,6 +3,19 @@ window.__CONCERT_EVENT_CHUNKS.push([
   {
     "artist": "あいみょん",
     "title": "あいみょん TOUR 2027",
+    "date": "2027-05-03",
+    "open": "",
+    "start": "",
+    "region": "神奈川",
+    "city": "横浜",
+    "venue": "K-Arena Yokohama",
+    "status": "AIM会員優先予約(抽選)後日案内 / ベストアルバム封入先行予定",
+    "confidence": "official",
+    "source": "https://www.aimyong.net/feature/tour2027"
+  },
+  {
+    "artist": "あいみょん",
+    "title": "あいみょん TOUR 2027",
     "date": "2027-05-12",
     "open": "",
     "start": "",

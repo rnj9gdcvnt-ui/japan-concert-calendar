@@ -1,94 +1,30 @@
 window.__CONCERT_EVENT_CHUNKS = window.__CONCERT_EVENT_CHUNKS || [];
 window.__CONCERT_EVENT_CHUNKS.push([
   {
-    "artist": "藤井風",
-    "title": "Prema World Tour",
-    "date": "2026-12-20",
-    "open": "16:00",
+    "artist": "平井大",
+    "title": "HIRAIDAI presents HOMECOMING 2027",
+    "date": "2027-01-20",
+    "open": "17:00",
     "start": "18:00",
-    "region": "東京",
-    "city": "東京",
-    "venue": "東京ドーム",
+    "region": "兵庫",
+    "city": "神戸",
+    "venue": "GLION ARENA KOBE",
+    "status": "ファミマ先行 2026-09-07 まで",
     "confidence": "official",
-    "source": "https://hehn.fujiikaze.com/pwt/"
+    "source": "https://hiraidai.com/news/detail.html?id=2880"
   },
   {
-    "artist": "藤井風",
-    "title": "Prema World Tour",
-    "date": "2026-12-26",
-    "open": "",
-    "start": "",
-    "region": "泰国",
-    "city": "曼谷",
-    "venue": "Rajamangala National Stadium",
-    "status": "票务待公布",
-    "confidence": "official",
-    "source": "https://hehn.fujiikaze.com/pwt/en/"
-  },
-  {
-    "artist": "LiSA",
-    "title": "LiSA Hall Tour 2026「LACE UP」",
-    "date": "2027-01-09",
-    "open": "16:00",
-    "start": "17:00",
-    "region": "東京",
-    "city": "東京",
-    "venue": "TOYOTA ARENA TOKYO",
-    "status": "FC先行结束，后续票务见来源",
-    "confidence": "official",
-    "source": "https://www.sonymusic.co.jp/artist/lisa/info/583485"
-  },
-  {
-    "artist": "藤井風",
-    "title": "Prema World Tour",
-    "date": "2027-01-09",
-    "open": "",
-    "start": "",
-    "region": "韩国",
-    "city": "首尔",
-    "venue": "Gocheok Sky Dome",
-    "status": "票务待公布",
-    "confidence": "official",
-    "source": "https://hehn.fujiikaze.com/pwt/en/"
-  },
-  {
-    "artist": "LiSA",
-    "title": "LiSA Hall Tour 2026「LACE UP」",
-    "date": "2027-01-10",
-    "open": "15:00",
-    "start": "16:00",
-    "region": "東京",
-    "city": "東京",
-    "venue": "TOYOTA ARENA TOKYO",
-    "status": "FC先行结束，后续票务见来源",
-    "confidence": "official",
-    "source": "https://www.sonymusic.co.jp/artist/lisa/info/583485"
-  },
-  {
-    "artist": "LiSA",
-    "title": "LiSA Hall Tour 2026「LACE UP」",
-    "date": "2027-01-16",
+    "artist": "平井大",
+    "title": "HIRAIDAI presents HOMECOMING 2027",
+    "date": "2027-01-21",
     "open": "17:00",
-    "start": "17:45",
-    "region": "宮城",
-    "city": "仙台",
-    "venue": "仙台サンプラザホール",
-    "status": "FC先行结束，后续票务见来源",
+    "start": "18:00",
+    "region": "兵庫",
+    "city": "神戸",
+    "venue": "GLION ARENA KOBE",
+    "status": "ファミマ先行 2026-09-07 まで",
     "confidence": "official",
-    "source": "https://www.sonymusic.co.jp/artist/lisa/info/583485"
-  },
-  {
-    "artist": "LiSA",
-    "title": "LiSA Hall Tour 2026「LACE UP」",
-    "date": "2027-01-17",
-    "open": "17:00",
-    "start": "17:45",
-    "region": "岩手",
-    "city": "盛岡",
-    "venue": "盛岡市民文化ホール",
-    "status": "FC先行结束，后续票务见来源",
-    "confidence": "official",
-    "source": "https://www.sonymusic.co.jp/artist/lisa/info/583485"
+    "source": "https://hiraidai.com/news/detail.html?id=2880"
   },
   {
     "artist": "LiSA",
@@ -156,6 +92,19 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "source": "https://xgalx.com/xg/tour/thecore/"
   },
   {
+    "artist": "平井大",
+    "title": "HIRAIDAI presents HOMECOMING 2027",
+    "date": "2027-02-10",
+    "open": "17:00",
+    "start": "18:00",
+    "region": "神奈川",
+    "city": "横浜",
+    "venue": "ぴあアリーナMM",
+    "status": "ファミマ先行 2026-09-07 まで",
+    "confidence": "official",
+    "source": "https://hiraidai.com/news/detail.html?id=2880"
+  },
+  {
     "artist": "XG",
     "title": "XG WORLD TOUR: THE CORE FINAL \"7\"",
     "date": "2027-02-11",
@@ -167,6 +116,19 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "status": "ALPHAZ最速先行 2026-08-07開始",
     "confidence": "official",
     "source": "https://xgalx.com/xg/tour/thecore/"
+  },
+  {
+    "artist": "平井大",
+    "title": "HIRAIDAI presents HOMECOMING 2027",
+    "date": "2027-02-11",
+    "open": "15:00",
+    "start": "16:00",
+    "region": "神奈川",
+    "city": "横浜",
+    "venue": "ぴあアリーナMM",
+    "status": "ファミマ先行 2026-09-07 まで",
+    "confidence": "official",
+    "source": "https://hiraidai.com/news/detail.html?id=2880"
   },
   {
     "artist": "あいみょん",
@@ -208,6 +170,19 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "source": "https://www.aimyong.net/feature/tour2027"
   },
   {
+    "artist": "平井大",
+    "title": "HIRAIDAI presents HOMECOMING 2027",
+    "date": "2027-02-20",
+    "open": "15:00",
+    "start": "16:00",
+    "region": "福岡",
+    "city": "福岡",
+    "venue": "マリンメッセ福岡A館",
+    "status": "ファミマ先行 2026-09-07 まで",
+    "confidence": "official",
+    "source": "https://hiraidai.com/news/detail.html?id=2880"
+  },
+  {
     "artist": "あいみょん",
     "title": "あいみょん TOUR 2027",
     "date": "2027-02-21",
@@ -219,6 +194,19 @@ window.__CONCERT_EVENT_CHUNKS.push([
     "status": "AIM会員優先予約(抽選)後日案内 / ベストアルバム封入先行予定",
     "confidence": "official",
     "source": "https://www.aimyong.net/feature/tour2027"
+  },
+  {
+    "artist": "平井大",
+    "title": "HIRAIDAI presents HOMECOMING 2027",
+    "date": "2027-02-21",
+    "open": "15:00",
+    "start": "16:00",
+    "region": "福岡",
+    "city": "福岡",
+    "venue": "マリンメッセ福岡A館",
+    "status": "ファミマ先行 2026-09-07 まで",
+    "confidence": "official",
+    "source": "https://hiraidai.com/news/detail.html?id=2880"
   },
   {
     "artist": "XG",
