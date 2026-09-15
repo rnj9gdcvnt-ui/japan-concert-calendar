@@ -225,6 +225,7 @@
   }
 
   function ticketPhase(event) {
+    if (event.ticketPhase) return event.ticketPhase;
     const status = String(event.status || "");
     const title = String(event.title || "");
 
