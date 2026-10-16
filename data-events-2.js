@@ -1,46 +1,6 @@
 window.__CONCERT_EVENT_CHUNKS = window.__CONCERT_EVENT_CHUNKS || [];
 window.__CONCERT_EVENT_CHUNKS.push([
   {
-    "artist": "ずっと真夜中でいいのに。",
-    "title": "特別公演祭 LEGACY ZOMBIE LABO「文禍伝雷」 奈良・平城京",
-    "date": "2026-10-11",
-    "open": "15:30",
-    "start": "17:30",
-    "region": "奈良",
-    "city": "奈良",
-    "venue": "平城宮跡歴史公園 中央区朝堂院 特設野外会場",
-    "status": "一般発売 2026-09-19 / Premium Area Upgrade 2026-08-26",
-    "confidence": "official",
-    "source": "https://zutomayo.net/bunka-denrai/"
-  },
-  {
-    "artist": "平井大",
-    "title": "INSPIRATION by SUNSETLIVE 2026",
-    "date": "2026-10-11",
-    "open": "",
-    "start": "",
-    "region": "福岡",
-    "city": "福岡",
-    "venue": "INN THE PARK 福岡（海の中道海浜公園 光と風の広場キャンプ場）",
-    "status": "フェス出演",
-    "confidence": "official",
-    "source": "https://hiraidai.com/schedule/detail.html?id=2862"
-  },
-  {
-    "artist": "tuki.",
-    "title": "秋の修学旅行〜天体観測〜",
-    "date": "2026-10-12",
-    "open": "16:00",
-    "start": "17:00",
-    "region": "東京",
-    "city": "東京",
-    "venue": "SGCホール有明",
-    "status": "此前先行已结束；后续票务见来源",
-    "confidence": "official",
-    "source": "https://tuki-official.net/contents/1071489",
-    "ticketPhase": "一轮结束"
-  },
-  {
     "artist": "XG",
     "title": "XG WORLD TOUR: THE CORE - ASIA & AUSTRALIA SHOWS",
     "date": "2026-10-17",
