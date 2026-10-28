@@ -3,7 +3,8 @@ const newArtistSource = {
   backNumber: "https://backnumber.info/news/detail/400314",
   sakanaction: "https://sakanaction.jp/feature/tour2026-2027",
   aveMujica: "https://bang-dream.com/events/avemujica_7th/",
-  mygo: "https://bang-dream.com/events/mygo_9th_hyogo/"
+  mygo: "https://bang-dream.com/events/mygo_9th_hyogo/",
+  countdownJapan: "https://countdownjapan.jp/2627/artist/"
 };
 
 const sakanactionDates = [
@@ -63,6 +64,22 @@ window.__CONCERT_EVENT_CHUNKS.push([
   {
     artist: "MyGO!!!!!", title: "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 香港還想編 -", date: "2027-01-03", open: "", start: "19:00",
     region: "香港", city: "香港", venue: "AsiaWorld-Expo, Hall 5", status: "官方已公布；票务详情待后续公告", ticketPhase: "待公布", confidence: "official", source: "https://bang-dream.com/events/mygo_9th_hongkong/"
+  },
+  {
+    artist: "tuki.", title: "COUNTDOWN JAPAN 26/27", date: "2026-12-29", open: "", start: "",
+    region: "千葉", city: "千葉", venue: "幕張メッセ 国際展示場1〜11ホール・イベントホール", status: "フェス出演；出演时间待公布", ticketPhase: "活动票", confidence: "official", source: "https://tuki-official.net/contents/schedule"
+  },
+  {
+    artist: "にしな", title: "COUNTDOWN JAPAN 26/27", date: "2026-12-29", open: "", start: "",
+    region: "千葉", city: "千葉", venue: "幕張メッセ 国際展示場1〜11ホール・イベントホール", status: "フェス出演；出演时间待公布", ticketPhase: "活动票", confidence: "official", source: newArtistSource.countdownJapan
+  },
+  {
+    artist: "LiSA", title: "COUNTDOWN JAPAN 26/27", date: "2026-12-31", open: "", start: "",
+    region: "千葉", city: "千葉", venue: "幕張メッセ 国際展示場1〜11ホール・イベントホール", status: "フェス出演；出演时间待公布", ticketPhase: "活动票", confidence: "official", source: "https://www.sonymusic.co.jp/artist/lisa/info/587622"
+  },
+  {
+    artist: "ずっと真夜中でいいのに。", title: "COUNTDOWN JAPAN 26/27", date: "2026-12-31", open: "", start: "",
+    region: "千葉", city: "千葉", venue: "幕張メッセ 国際展示場1〜11ホール・イベントホール", status: "フェス出演；出演时间待公布", ticketPhase: "活动票", confidence: "official", source: newArtistSource.countdownJapan
   },
   ...sakanactionDates.map(([date, open, start, region, city, venue]) => ({
     artist: "サカナクション", title: "SAKANAQUARIUM 2026-2027「透明」", date, open, start, region, city, venue,

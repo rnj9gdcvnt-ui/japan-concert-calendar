@@ -1,6 +1,6 @@
 const calendarEvents = (window.__CONCERT_EVENT_CHUNKS || [])
   .flat()
-  .filter((event) => event.date >= "2026-10-24" && event.date <= "2027-10-24")
+  .filter((event) => event.date >= "2026-10-28" && event.date <= "2027-10-28")
   .map((event) => {
     if (event.artist === "YOASOBI" && event.date <= "2026-12-06") {
       return {
